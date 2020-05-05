@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList", "ToDoList\ToDoList.csproj", "{CDF3742D-1343-4479-8969-0E415329D458}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Logic", "ToDoList.Logic\ToDoList.Logic.csproj", "{29150CD0-E441-4471-969E-142C37494EA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDF3742D-1343-4479-8969-0E415329D458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF3742D-1343-4479-8969-0E415329D458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF3742D-1343-4479-8969-0E415329D458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF3742D-1343-4479-8969-0E415329D458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29150CD0-E441-4471-969E-142C37494EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29150CD0-E441-4471-969E-142C37494EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29150CD0-E441-4471-969E-142C37494EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29150CD0-E441-4471-969E-142C37494EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E127B647-2617-4222-8C8F-86ADD623C6BA}
+	EndGlobalSection
+EndGlobal
